@@ -1055,7 +1055,7 @@
           },
           "intense": {
             "$type": "color",
-            "$value": "{secondary.800}"
+            "$value": "{secondary.500}"
           }
         }
       },
